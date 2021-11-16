@@ -22,6 +22,14 @@ I create applications for both the web and Android & ios, most of them using Jav
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="php Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="php Logo" with="50" height="50"/>
 
+
+<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilout56&theme=radical&layout=compact)](https://github.com/nilout56/github-readme-stats)
+
+![Hmida GitHub stats](https://github-readme-stats.vercel.app/api?username=nilout56&show_icons=true&theme=radical)
+
+
 ---
 <!--
 **nilout56/nilout56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
