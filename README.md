@@ -27,7 +27,7 @@ I create applications for both the web and Android & ios, most of them using Jav
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="php Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="php Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/flutter-original.svg" alt="php Logo" with="50" height="50"/>
+
 
 
 
