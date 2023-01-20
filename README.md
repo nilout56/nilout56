@@ -33,12 +33,12 @@ I create applications for both the web and Android & ios, most of them using Jav
 
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilout56&theme=radical&layout=compact)](https://github.com/nilout56/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nilout56&theme=radical&layout=compact)](https://github.com/nilout56/github-readme-stats)
 
 ![Hmida GitHub stats](https://github-readme-stats.vercel.app/api?username=nilout56&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nilout56&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nilout56&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nilout56/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=nilout56&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=nilout56&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nilout56/github-readme-stats#gh-light-mode-only)
 ---
 <!--
 **nilout56/nilout56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
