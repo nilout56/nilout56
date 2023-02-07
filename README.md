@@ -30,20 +30,6 @@ I create applications for both the web and Android & ios, most of them using Jav
 
 <hr></hr>
 
-🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JavaScript Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Hmtl Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Lunix Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="php Logo" with="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="php Logo" with="50" height="50"/>
-
 
 
 
