@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilout</h1>
 <h3 align="center">A passionate Mobile Application developer from Laos</h3>
-<p align="right" alt="coding" width="400" src="https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif">
+<p align="right" alt="coding" width="400" src="https://www.icodesolution.com/resource/images/mobile-app-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilout56&label=Profile%20views&color=0e75b6&style=flat" alt="nilout56" /> </p>
 
