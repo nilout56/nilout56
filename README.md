@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nilout</h1>
 <h3 align="center">A passionate Mobile Application developer from Laos</h3>
-<p align="right" alt="coding" width="400" src="https://www.icodesolution.com/resource/images/mobile-app-development.gif">
+<p align="right" alt="coding" width="400" src="https://www.icodesolution.com/resource/images/mobile-app-development.gif"class="center">
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 
 <img src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif" alt="Italian Trulli">
